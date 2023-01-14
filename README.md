@@ -2,8 +2,14 @@
 
 ## ***Introduction***
 ---
+A startup company Sparkify, wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
+## ***Objective***
+---
 The purpose of this project is to build a PostgreSQL database utilizing the data on users activity and songs metadata to helps us do complex analytics regarding users activity as well as song play analysis.
+Role is to:
+   1. Design Database - Star Schema
+   2. Develop ETL Pipeline - Python, Pandas
 
 ## ***Getting started***
 ---
